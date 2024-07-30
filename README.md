@@ -1,6 +1,8 @@
 # Password Generator with React.js & TypeScript
 You can create a strong password between 6 and 32 characters. 
+
 Live website URL -> https://otpz.github.io/pass-generator-reactjs/
+
 ![1](https://github.com/user-attachments/assets/85d3abbd-f8f3-4b5b-b360-11dbb3aed4fc)
 
 
