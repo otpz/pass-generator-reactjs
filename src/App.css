@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-family: "Inter", sans-serif;
+}
+
+body,
+html{
+  height: 100vh; 
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #F6E8FE;
+}
+
+.card{
+  width: 350px;
+  height: 550px;
+  background-color: #090312;
+  border-radius: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 15px;
+}
+
+.label{
+  font-size: 11px;
+  color: #A397B2;
+  font-weight: 600;
+  text-transform: uppercase;
+}
