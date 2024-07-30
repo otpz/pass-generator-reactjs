@@ -46,3 +46,27 @@ body{
   font-weight: 600;
   text-transform: uppercase;
 }
+
+.footer{
+  position: absolute;
+  bottom: 20px; 
+}
+
+.info{
+  font-size: 18px;
+  font-weight: 700;
+  color: black;
+}
+
+.info .link{
+  font-size: 20px;
+  font-weight: 800;
+  text-decoration: none;
+  color: purple;
+  transition: 0.25s all ease-in-out;
+}
+
+.info .link:hover{
+  transition: 0.25s all ease-in-out;
+  color: rgb(176, 0, 176);
+}
